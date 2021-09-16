@@ -1,8 +1,10 @@
 ## Welcome to my portfolio!
 
-My name is Wilson and I'm a current student attending NECC! Below I have provided various projects I have worked on during my semesters.
+My name is Wilson and I am a current student attending NECC! Below I have provided various projects I have worked on during my semesters.
 
-###Class
+### Class Projects
+
+#### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
